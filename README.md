@@ -9,13 +9,8 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced) and organized 
 ## Table of Contents
 
 - [Basic Questions](#basic-questions)
-  - [Array](#array)
-  - [String](#string)
 - [Intermediate Questions](#intermediate-questions)
-  - [Stack & Queue](#stack--queue)
-  - [Hashing](#hashing)
 - [Advanced Questions](#advanced-questions)
-  - [Advanced Trees](#advanced-trees)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -23,11 +18,8 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced) and organized 
 
 ## Basic Questions
 
-### Array
+1. **Write a program to reverse a string** &nbsp;&nbsp;&nbsp;&nbsp; <a href="./Basic/Write a program to reverse a string/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Basic/Write a program to reverse a string/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Basic/Write a program to reverse a string/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Basic/Write a program to reverse a string/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
 
-
-
-### String
 
 
 
@@ -35,18 +27,12 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced) and organized 
 
 ## Intermediate Questions
 
-### Stack & Queue
-
-
-
-### Hashing
 
 
 ---
 
 ## Advanced Questions
 
-### Advanced Trees
 
 
 
