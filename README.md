@@ -9,13 +9,8 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced) and organized 
 ## Table of Contents
 
 - [Basic Questions](#basic-questions)
-  - [Array](#array)
-  - [String](#string)
 - [Intermediate Questions](#intermediate-questions)
-  - [Stack & Queue](#stack--queue)
-  - [Hashing](#hashing)
 - [Advanced Questions](#advanced-questions)
-  - [Advanced Trees](#advanced-trees)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -23,11 +18,7 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced) and organized 
 
 ## Basic Questions
 
-### Array
 
-
-
-### String
 
 
 
@@ -35,18 +26,12 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced) and organized 
 
 ## Intermediate Questions
 
-### Stack & Queue
-
-
-
-### Hashing
 
 
 ---
 
 ## Advanced Questions
 
-### Advanced Trees
 
 
 
