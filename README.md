@@ -88,7 +88,7 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced). Click on a pr
 
 5. **Implement bubble sort algorithm**
 
-   <a href="./Basic/5.Implement bubble sort algorithm/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Basic/5.Implement bubble sort algorithm/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Basic/5.Implement bubble sort algorithm/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Basic/5.Implement bubble sort algorithm/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+   <a href="./Intermediate/5.Implement bubble sort algorithm/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/5.Implement bubble sort algorithm/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/5.Implement bubble sort algorithm/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/5.Implement bubble sort algorithm/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
 
 6. **Implement insertion sort algorithm**
 
@@ -96,11 +96,31 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced). Click on a pr
 
 7. **Implement binary search for a sorted array**
 
-   <a href="./Basic/7.Implement binary search for a sorted array/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Basic/7.Implement binary search for a sorted array/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Basic/7.Implement binary search for a sorted array/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Basic/7.Implement binary search for a sorted array/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+   <a href="./Intermediate/7.Implement binary search for a sorted array/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/7.Implement binary search for a sorted array/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/7.Implement binary search for a sorted array/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/7.Implement binary search for a sorted array/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
 
 8. **Implement binary search for an unsorted array**
 
    <a href="./Intermediate/8.Implement binary search for an unsorted array/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/8.Implement binary search for an unsorted array/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/8.Implement binary search for an unsorted array/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/8.Implement binary search for an unsorted array/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+9. **Find the second largest number in an array**
+
+   <a href="./Intermediate/9.Find the second largest number in an array/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/9.Find the second largest number in an array/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/9.Find the second largest number in an array/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/9.Find the second largest number in an array/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+10. **Write a program to check if two strings are anagrams**
+
+    <a href="./Intermediate/10.Write a program to check if two strings are anagrams/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/10.Write a program to check if two strings are anagrams/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/10.Write a program to check if two strings are anagrams/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/10.Write a program to check if two strings are anagrams/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+11. **Convert a decimal number to binary**
+
+    <a href="./Intermediate/11.Convert a decimal number to binary/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/11.Convert a decimal number to binary/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/11.Convert a decimal number to binary/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/11.Convert a decimal number to binary/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+12. **Find the GCD (Greatest Common Divisor) and LCM (Least Common Multiple) of two numbers**
+
+    <a href="./Intermediate/12.Find the GCD (Greatest Common Divisor) and LCM (Least Common Multiple) of two numbers/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/12.Find the GCD (Greatest Common Divisor) and LCM (Least Common Multiple) of two numbers/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/12.Find the GCD (Greatest Common Divisor) and LCM (Least Common Multiple) of two numbers/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/12.Find the GCD (Greatest Common Divisor) and LCM (Least Common Multiple) of two numbers/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+13. **Write a program to rotate an array by k positions**
+
+    <a href="./Intermediate/13.Write a program to rotate an array by k positions/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/13.Write a program to rotate an array by k positions/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/13.Write a program to rotate an array by k positions/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/13.Write a program to rotate an array by k positions/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
 
 ---
 
