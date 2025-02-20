@@ -66,6 +66,26 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced). Click on a pr
 
     <a href="./Basic/12.Implement a basic calculator for addition, subtraction, multiplication, and division/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Basic/12.Implement a basic calculator for addition, subtraction, multiplication, and division/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Basic/12.Implement a basic calculator for addition, subtraction, multiplication, and division/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Basic/12.Implement a basic calculator for addition, subtraction, multiplication, and division/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
 
+13. **Find the sum of the digits of a given number**
+
+    <a href="./Basic/13.Find the sum of the digits of a given number/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Basic/13.Find the sum of the digits of a given number/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Basic/13.Find the sum of the digits of a given number/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Basic/13.Find the sum of the digits of a given number/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+14. **Check if a number is prime or composite**
+
+    <a href="./Basic/14.Check if a number is prime or composite/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Basic/14.Check if a number is prime or composite/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Basic/14.Check if a number is prime or composite/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Basic/14.Check if a number is prime or composite/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+15. **Find the missing number in an array of size n containing numbers from 1 to n+1 in C**
+
+    <a href="./Basic/15.Find the missing number in an array of size n containing numbers from 1 to n+1 in C/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Basic/15.Find the missing number in an array of size n containing numbers from 1 to n+1 in C/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Basic/15.Find the missing number in an array of size n containing numbers from 1 to n+1 in C/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Basic/15.Find the missing number in an array of size n containing numbers from 1 to n+1 in C/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+16. **Find all pairs in an array whose sum is equal to a given number**
+
+    <a href="./Basic/16.Find all pairs in an array whose sum is equal to a given number/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Basic/16.Find all pairs in an array whose sum is equal to a given number/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Basic/16.Find all pairs in an array whose sum is equal to a given number/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Basic/16.Find all pairs in an array whose sum is equal to a given number/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+17. **Write a program to remove duplicates from a sorted array**
+
+    <a href="./Basic/17.Write a program to remove duplicates from a sorted array/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Basic/17.Write a program to remove duplicates from a sorted array/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Basic/17.Write a program to remove duplicates from a sorted array/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Basic/17.Write a program to remove duplicates from a sorted array/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
 ---
 
 ## Intermediate Questions
