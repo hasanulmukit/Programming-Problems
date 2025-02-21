@@ -142,6 +142,26 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced). Click on a pr
 
     <a href="./Intermediate/13.Write a program to rotate an array by k positions/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/13.Write a program to rotate an array by k positions/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/13.Write a program to rotate an array by k positions/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/13.Write a program to rotate an array by k positions/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
 
+14. **Implement a stack and its operations (push, pop, peek) using an array**
+
+    <a href="./Intermediate/14.Implement a stack and its operations (push, pop, peek) using an array/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/14.Implement a stack and its operations (push, pop, peek) using an array/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/14.Implement a stack and its operations (push, pop, peek) using an array/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/14.Implement a stack and its operations (push, pop, peek) using an array/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+15. **Find the majority element in an array (element that appears more than n2 times)**
+
+    <a href="./Intermediate/15.Find the majority element in an array (element that appears more than n2 times)/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/15.Find the majority element in an array (element that appears more than n2 times)/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/15.Find the majority element in an array (element that appears more than n2 times)/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/15.Find the majority element in an array (element that appears more than n2 times)/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+16. **Find the longest common prefix in an array of strings**
+
+    <a href="./Intermediate/16.Find the longest common prefix in an array of strings/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/16.Find the longest common prefix in an array of strings/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/16.Find the longest common prefix in an array of strings/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/16.Find the longest common prefix in an array of strings/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+17. **Solve the Fibonacci series using recursion**
+
+    <a href="./Intermediate/4.Solve the Fibonacci series using recursion/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/4.Solve the Fibonacci series using recursion/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/4.Solve the Fibonacci series using recursion/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/4.Solve the Fibonacci series using recursion/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+18. **Implement bubble sort algorithm**
+
+    <a href="./Intermediate/5.Implement bubble sort algorithm/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/5.Implement bubble sort algorithm/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/5.Implement bubble sort algorithm/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/5.Implement bubble sort algorithm/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
 ---
 
 ## Advanced Questions
