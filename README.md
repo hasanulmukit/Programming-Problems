@@ -86,6 +86,26 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced). Click on a pr
 
     <a href="./Basic/17.Write a program to remove duplicates from a sorted array/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Basic/17.Write a program to remove duplicates from a sorted array/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Basic/17.Write a program to remove duplicates from a sorted array/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Basic/17.Write a program to remove duplicates from a sorted array/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
 
+18. **Write a program to move all zeros in an array to the end**
+
+    <a href="./Basic/18.Write a program to move all zeros in an array to the end/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Basic/18.Write a program to move all zeros in an array to the end/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Basic/18.Write a program to move all zeros in an array to the end/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Basic/18.Write a program to move all zeros in an array to the end/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+19. **Implement a program to check if a string contains all unique characters**
+
+    <a href="./Basic/19.Implement a program to check if a string contains all unique characters/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Basic/19.Implement a program to check if a string contains all unique characters/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Basic/19.Implement a program to check if a string contains all unique characters/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Basic/19.Implement a program to check if a string contains all unique characters/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+20. **Reverse the words in a sentence without reversing the letters**
+
+    <a href="./Basic/20.Reverse the words in a sentence without reversing the letters/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Basic/20.Reverse the words in a sentence without reversing the letters/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Basic/20.Reverse the words in a sentence without reversing the letters/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Basic/20.Reverse the words in a sentence without reversing the letters/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+21. **Reverse a linked list (iterative)**
+
+    <a href="./Basic/21.Reverse a linked list (iterative)/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Basic/21.Reverse a linked list (iterative)/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Basic/21.Reverse a linked list (iterative)/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Basic/21.Reverse a linked list (iterative)/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+22. **Reverse a linked list (recursive)**
+
+    <a href="./Basic/22.Reverse a linked list (recursive)/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Basic/22.Reverse a linked list (recursive)/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Basic/22.Reverse a linked list (recursive)/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Basic/22.Reverse a linked list (recursive)/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
 ---
 
 ## Intermediate Questions
