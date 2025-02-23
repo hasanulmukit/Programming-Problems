@@ -182,6 +182,26 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced). Click on a pr
 
     <a href="./Intermediate/18.Write a program to implement string compression (e.g., aaabb → a3b2)/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/18.Write a program to implement string compression (e.g., aaabb → a3b2)/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/18.Write a program to implement string compression (e.g., aaabb → a3b2)/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/18.Write a program to implement string compression (e.g., aaabb → a3b2)/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
 
+19. **Merge two sorted linked lists**
+
+    <a href="./Intermediate/19.Merge two sorted linked lists/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/19.Merge two sorted linked lists/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/19.Merge two sorted linked lists/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/19.Merge two sorted linked lists/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+20. **Implement a queue using an array**
+
+    <a href="./Intermediate/20.Remove the nth node from the end of a linked list/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/20.Remove the nth node from the end of a linked list/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/20.Remove the nth node from the end of a linked list/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/20.Remove the nth node from the end of a linked list/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+21. **Detect and remove a cycle in a linked list**
+
+    <a href="./Intermediate/21.Detect and remove a cycle in a linked list/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/21.Detect and remove a cycle in a linked list/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/21.Detect and remove a cycle in a linked list/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/21.Detect and remove a cycle in a linked list/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+22. **Write a program to evaluate a postfix expression**
+
+    <a href="./Intermediate/22.Write a program to evaluate a postfix expression/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/22.Write a program to evaluate a postfix expression/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/22.Write a program to evaluate a postfix expression/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/22.Write a program to evaluate a postfix expression/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+23. **Implement a min stack that supports push, pop, and retrieving the minimum element in constant time**
+
+    <a href="./Intermediate/23.Implement a min stack that supports push, pop, and retrieving the minimum element in constant time/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/23.Implement a min stack that supports push, pop, and retrieving the minimum element in constant time/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/23.Implement a min stack that supports push, pop, and retrieving the minimum element in constant time/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/23.Implement a min stack that supports push, pop, and retrieving the minimum element in constant time/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
 ---
 
 ## Advanced Questions
