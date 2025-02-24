@@ -106,6 +106,22 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced). Click on a pr
 
     <a href="./Basic/22.Reverse a linked list (recursive)/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Basic/22.Reverse a linked list (recursive)/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Basic/22.Reverse a linked list (recursive)/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Basic/22.Reverse a linked list (recursive)/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
 
+23. **Find the middle element of a linked list in one traversal**
+
+    <a href="./Basic/23.Find the middle element of a linked list in one traversal/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Basic/23.Find the middle element of a linked list in one traversal/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Basic/23.Find the middle element of a linked list in one traversal/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Basic/23.Find the middle element of a linked list in one traversal/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+24. **Implement a queue using a circular array**
+
+    <a href="./Basic/24.Implement a queue using a circular array/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Basic/24.Implement a queue using a circular array/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Basic/24.Implement a queue using a circular array/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Basic/24.Implement a queue using a circular array/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+25. **Solve the Activity Selection Problem**
+
+    <a href="./Basic/25.Solve the Activity Selection Problem/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Basic/25.Solve the Activity Selection Problem/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Basic/25.Solve the Activity Selection Problem/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Basic/25.Solve the Activity Selection Problem/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+26. **Write a program to find the largest number possible from an array of numbers**
+
+    <a href="./Basic/26.Write a program to find the largest number possible from an array of numbers/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Basic/26.Write a program to find the largest number possible from an array of numbers/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Basic/26.Write a program to find the largest number possible from an array of numbers/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Basic/26.Write a program to find the largest number possible from an array of numbers/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
 ---
 
 ## Intermediate Questions
