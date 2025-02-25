@@ -218,6 +218,22 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced). Click on a pr
 
     <a href="./Intermediate/23.Implement a min stack that supports push, pop, and retrieving the minimum element in constant time/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/23.Implement a min stack that supports push, pop, and retrieving the minimum element in constant time/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/23.Implement a min stack that supports push, pop, and retrieving the minimum element in constant time/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/23.Implement a min stack that supports push, pop, and retrieving the minimum element in constant time/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
 
+24. **Solve the 01 Knapsack Problem**
+
+    <a href="./Intermediate/24.Solve the 01 Knapsack Problem/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/24.Solve the 01 Knapsack Problem/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/24.Solve the 01 Knapsack Problem/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/24.Solve the 01 Knapsack Problem/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+25. **Find the length of the longest increasing subsequence**
+
+    <a href="./Intermediate/25.Find the length of the longest increasing subsequence/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/25.Find the length of the longest increasing subsequence/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/25.Find the length of the longest increasing subsequence/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/25.Find the length of the longest increasing subsequence/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+26. **Solve the Coin Change Problem (minimum coins needed to make a sum)**
+
+    <a href="./Intermediate/26.Solve the Coin Change Problem (minimum coins needed to make a sum)/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/26.Solve the Coin Change Problem (minimum coins needed to make a sum)/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/26.Solve the Coin Change Problem (minimum coins needed to make a sum)/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/26.Solve the Coin Change Problem (minimum coins needed to make a sum)/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+27. **27.Find the longest common subsequence of two strings**
+
+    <a href="./Intermediate/27.Find the longest common subsequence of two strings/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/27.Find the longest common subsequence of two strings/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/27.Find the longest common subsequence of two strings/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/27.Find the longest common subsequence of two strings/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
 ---
 
 ## Advanced Questions
