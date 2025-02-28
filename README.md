@@ -230,9 +230,25 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced). Click on a pr
 
     <a href="./Intermediate/26.Solve the Coin Change Problem (minimum coins needed to make a sum)/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/26.Solve the Coin Change Problem (minimum coins needed to make a sum)/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/26.Solve the Coin Change Problem (minimum coins needed to make a sum)/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/26.Solve the Coin Change Problem (minimum coins needed to make a sum)/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
 
-27. **27.Find the longest common subsequence of two strings**
+27. **Find the longest common subsequence of two strings**
 
     <a href="./Intermediate/27.Find the longest common subsequence of two strings/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/27.Find the longest common subsequence of two strings/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/27.Find the longest common subsequence of two strings/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/27.Find the longest common subsequence of two strings/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+28. **Implement Huffman Encoding**
+
+    <a href="./Intermediate/Implement Huffman Encoding/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/Implement Huffman Encoding/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/Implement Huffman Encoding/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/Implement Huffman Encoding/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+29. **Find the minimum number of coins needed for a given amount using a greedy approach**
+
+    <a href="./Intermediate/29.Find the minimum number of coins needed for a given amount using a greedy approach/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/29.Find the minimum number of coins needed for a given amount using a greedy approach/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/29.Find the minimum number of coins needed for a given amount using a greedy approach/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/29.Find the minimum number of coins needed for a given amount using a greedy approach/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+30. **Generate all subsets of a given set using recursion**
+
+    <a href="./Intermediate/30.Generate all subsets of a given set using recursion/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/30.Generate all subsets of a given set using recursion/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/30.Generate all subsets of a given set using recursion/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/30.Generate all subsets of a given set using recursion/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+31. **Solve the Fractional Knapsack Problem**
+
+    <a href="./Intermediate/31.Solve the Fractional Knapsack Problem/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/31.Solve the Fractional Knapsack Problem/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/31.Solve the Fractional Knapsack Problem/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/31.Solve the Fractional Knapsack Problem/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
 
 ---
 
