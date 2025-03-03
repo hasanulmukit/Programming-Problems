@@ -250,6 +250,22 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced). Click on a pr
 
     <a href="./Intermediate/31.Solve the Fractional Knapsack Problem/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/31.Solve the Fractional Knapsack Problem/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/31.Solve the Fractional Knapsack Problem/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/31.Solve the Fractional Knapsack Problem/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
 
+32. **Solve the Topological Sorting Problem for a directed acyclic graph (DAG)**
+
+    <a href="./Intermediate/32.Solve the Topological Sorting Problem for a directed acyclic graph (DAG)/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/32.Solve the Topological Sorting Problem for a directed acyclic graph (DAG)/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/32.Solve the Topological Sorting Problem for a directed acyclic graph (DAG)/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/32.Solve the Topological Sorting Problem for a directed acyclic graph (DAG)/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+33. **Write a program to detect a cycle in a directed graph using DFS**
+
+    <a href="./Intermediate/33.Write a program to detect a cycle in a directed graph using DFS/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/33.Write a program to detect a cycle in a directed graph using DFS/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/33.Write a program to detect a cycle in a directed graph using DFS/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/33.Write a program to detect a cycle in a directed graph using DFS/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+34. **Tree traversals (inorder, preorder, postorder)**
+
+    <a href="./Intermediate/34.Tree traversals (inorder, preorder, postorder)/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/34.Tree traversals (inorder, preorder, postorder)/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/34.Tree traversals (inorder, preorder, postorder)/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/34.Tree traversals (inorder, preorder, postorder)/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+35. **Write a program to find the intersection of two sorted arrays**
+
+    <a href="./Intermediate/35.Write a program to find the intersection of two sorted arrays/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Intermediate/35.Write a program to find the intersection of two sorted arrays/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Intermediate/35.Write a program to find the intersection of two sorted arrays/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Intermediate/35.Write a program to find the intersection of two sorted arrays/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
 ---
 
 ## Advanced Questions
