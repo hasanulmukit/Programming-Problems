@@ -278,6 +278,18 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced). Click on a pr
 
    <a href="./Advance/2.Implement quicksort algorithm/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/2.Implement quicksort algorithm/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/2.Implement quicksort algorithm/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/2.Implement quicksort algorithm/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
 
+3. **Write a program to check if a linked list is a palindrome**
+
+   <a href="./Advance/3.Write a program to check if a linked list is a palindrome/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/3.Write a program to check if a linked list is a palindrome/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/3.Write a program to check if a linked list is a palindrome/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/3.Write a program to check if a linked list is a palindrome/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+4. **Implement a queue using two stacks**
+
+   <a href="./Advance/4.Implement a queue using two stacks/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/4.Implement a queue using two stacks/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/4.Implement a queue using two stacks/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/4.Implement a queue using two stacks/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+5. **Solve the N-Queens Problem using backtracking**
+
+   <a href="./Advance/5.Solve the N-Queens Problem using backtracking/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/5.Solve the N-Queens Problem using backtracking/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/5.Solve the N-Queens Problem using backtracking/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/5.Solve the N-Queens Problem using backtracking/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
 ---
 
 ## Contributing
