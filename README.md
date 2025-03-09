@@ -290,6 +290,30 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced). Click on a pr
 
    <a href="./Advance/5.Solve the N-Queens Problem using backtracking/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/5.Solve the N-Queens Problem using backtracking/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/5.Solve the N-Queens Problem using backtracking/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/5.Solve the N-Queens Problem using backtracking/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
 
+6. **Write a program to detect a cycle in a linked list**
+
+   <a href="./Advance/6.Write a program to detect a cycle in a linked list/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/6.Write a program to detect a cycle in a linked list/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/6.Write a program to detect a cycle in a linked list/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/6.Write a program to detect a cycle in a linked list/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+7. **Find the shortest path in a graph using Dijkstra’s Algorithm**
+
+   <a href="./Advance/7.Find the shortest path in a graph using Dijkstra’s Algorithm/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/7.Find the shortest path in a graph using Dijkstra’s Algorithm/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/7.Find the shortest path in a graph using Dijkstra’s Algorithm/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/7.Find the shortest path in a graph using Dijkstra’s Algorithm/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+8. **Check if a binary tree is a valid binary search tree (BST)**
+
+   <a href="./Advance/8.Check if a binary tree is a valid binary search tree (BST)/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/8.Check if a binary tree is a valid binary search tree (BST)/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/8.Check if a binary tree is a valid binary search tree (BST)/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/8.Check if a binary tree is a valid binary search tree (BST)/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+9. **Write a program to solve the Knapsack Problem using dynamic programming**
+
+   <a href="./Advance/9.Write a program to solve the Knapsack Problem using dynamic programming/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/9.Write a program to solve the Knapsack Problem using dynamic programming/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/9.Write a program to solve the Knapsack Problem using dynamic programming/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/9.Write a program to solve the Knapsack Problem using dynamic programming/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+10. **Implement depth-first search (DFS) for a graph**
+
+    <a href="./Advance/10.Implement depth-first search (DFS) for a graph/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/10.Implement depth-first search (DFS) for a graph/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/10.Implement depth-first search (DFS) for a graph/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/10.Implement depth-first search (DFS) for a graph/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+11. **Implement breadth-first search (BFS) for a graph**
+
+    <a href="./Advance/11.Implement breadth-first search (BFS) for a graph/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/11.Implement breadth-first search (BFS) for a graph/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/11.Implement breadth-first search (BFS) for a graph/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/11.Implement breadth-first search (BFS) for a graph/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
 ---
 
 ## Contributing
