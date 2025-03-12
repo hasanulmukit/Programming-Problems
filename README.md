@@ -314,6 +314,30 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced). Click on a pr
 
     <a href="./Advance/11.Implement breadth-first search (BFS) for a graph/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/11.Implement breadth-first search (BFS) for a graph/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/11.Implement breadth-first search (BFS) for a graph/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/11.Implement breadth-first search (BFS) for a graph/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
 
+12. **Find the maximum area of a rectangle in a histogram**
+
+    <a href="./Advance/12.Find the maximum area of a rectangle in a histogram/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/12.Find the maximum area of a rectangle in a histogram/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/12.Find the maximum area of a rectangle in a histogram/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/12.Find the maximum area of a rectangle in a histogram/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+13. **Implement the Tower of Hanoi**
+
+    <a href="./Advance/13.Implement the Tower of Hanoi/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/13.Implement the Tower of Hanoi/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/13.Implement the Tower of Hanoi/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/13.Implement the Tower of Hanoi/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+14. **Write a program to compute the nth Catalan number**
+
+    <a href="./Advance/14.Write a program to compute the nth Catalan number/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/14.Write a program to compute the nth Catalan number/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/14.Write a program to compute the nth Catalan number/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/14.Write a program to compute the nth Catalan number/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+15. **Design a hash map from scratch using an array and linked list**
+
+    <a href="./Advance/15.Design a hash map from scratch using an array and linked list/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/15.Design a hash map from scratch using an array and linked list/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/15.Design a hash map from scratch using an array and linked list/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/15.Design a hash map from scratch using an array and linked list/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+16. **Find the connected components of an undirected graph**
+
+    <a href="./Advance/16.Find the connected components of an undirected graph/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/16.Find the connected components of an undirected graph/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/16.Find the connected components of an undirected graph/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/16.Find the connected components of an undirected graph/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+17. **Implement Floyd-Warshall Algorithm for all-pairs shortest paths**
+
+    <a href="./Advance/17.Implement Floyd-Warshall Algorithm for all-pairs shortest paths/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/17.Implement Floyd-Warshall Algorithm for all-pairs shortest paths/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/17.Implement Floyd-Warshall Algorithm for all-pairs shortest paths/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/17.Implement Floyd-Warshall Algorithm for all-pairs shortest paths/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
 ---
 
 ## Contributing
