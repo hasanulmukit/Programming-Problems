@@ -338,6 +338,14 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced). Click on a pr
 
     <a href="./Advance/17.Implement Floyd-Warshall Algorithm for all-pairs shortest paths/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/17.Implement Floyd-Warshall Algorithm for all-pairs shortest paths/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/17.Implement Floyd-Warshall Algorithm for all-pairs shortest paths/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/17.Implement Floyd-Warshall Algorithm for all-pairs shortest paths/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
 
+18. **Implement Kruskal’s Algorithm for finding the Minimum Spanning Tree (MST)**
+
+    <a href="./Advance/18.Implement Kruskal’s Algorithm for finding the Minimum Spanning Tree (MST)/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/18.Implement Kruskal’s Algorithm for finding the Minimum Spanning Tree (MST)/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/18.Implement Kruskal’s Algorithm for finding the Minimum Spanning Tree (MST)/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/18.Implement Kruskal’s Algorithm for finding the Minimum Spanning Tree (MST)/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+19. **Solve the Snake and Ladder Problem using a graph representation**
+
+    <a href="./Advance/19.Solve the Snake and Ladder Problem using a graph representation/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/19.Solve the Snake and Ladder Problem using a graph representation/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/19.Solve the Snake and Ladder Problem using a graph representation/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/19.Solve the Snake and Ladder Problem using a graph representation/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
 ---
 
 ## Contributing
