@@ -11,6 +11,7 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced). Click on a pr
 - [Basic Questions](#basic-questions)
 - [Intermediate Questions](#intermediate-questions)
 - [Advanced Questions](#advanced-questions)
+- [Miscellaneous Questions](#miscellaneous-questions)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -345,6 +346,8 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced). Click on a pr
 19. **Solve the Snake and Ladder Problem using a graph representation**
 
     <a href="./Advance/19.Solve the Snake and Ladder Problem using a graph representation/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a> <a href="./Advance/19.Solve the Snake and Ladder Problem using a graph representation/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a> <a href="./Advance/19.Solve the Snake and Ladder Problem using a graph representation/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a> <a href="./Advance/19.Solve the Snake and Ladder Problem using a graph representation/Solution.py" target="_blank"><img src="https://img.shields.io/badge/Python-View_Solution-blue" alt="Python"></a>
+
+## Miscellaneous Questions
 
 ---
 
