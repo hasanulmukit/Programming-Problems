@@ -351,7 +351,7 @@ Each problem is categorized (e.g., Basic, Intermediate, Advanced). Click on a pr
 
 1. **Pattern #1**
 
-   <a href="./Miscellaneous/Pattern 1/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a><a href="./Miscellaneous/Pattern 1/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a>
+   <a href="./Miscellaneous/Pattern 1/Solution.c" target="_blank"><img src="https://img.shields.io/badge/C-View_Solution-blue" alt="C"></a><a href="./Miscellaneous/Pattern 1/Solution.cpp" target="_blank"><img src="https://img.shields.io/badge/C++-View_Solution-blue" alt="C++"></a><a href="./Miscellaneous/Pattern 1/Solution.java" target="_blank"><img src="https://img.shields.io/badge/Java-View_Solution-blue" alt="Java"></a>
 
 ---
 
