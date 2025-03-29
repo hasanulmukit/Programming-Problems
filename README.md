@@ -2,7 +2,7 @@
 
 Welcome to my collection of programming problems and their solutions implemented in multiple languages: **C**, **C++**, **Java**, and **Python**.
 
-Each problem is categorized (e.g., Basic, Intermediate, Advanced). Click on a problem to see the solutions in your preferred programming language.
+Each problem is categorized (e.g., Basic, Intermediate, Advanced, Miscellaneous). Click on a problem to see the solutions in your preferred programming language.
 
 ---
 
